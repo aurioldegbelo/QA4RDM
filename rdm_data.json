@@ -1,0 +1,649 @@
+[
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+        "RDM Website": "https://www.b-tu.de/en/bibliothek/publishing/research-data",
+        "location": [
+            51.76722222,
+            14.32638889
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Fachinformationsdienst Geowissenschaften des GeoForschungsZentrum Potsdam",
+        "RDM Website": "https://www.fidgeo.de/en/research-data/faq",
+        "location": [
+            52.38255556,
+            13.06444444
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Freie Universität Berlin",
+        "RDM Website": "https://www.fu-berlin.de/en/sites/forschungsdatenmanagement/glossar/index.html",
+        "location": [
+            52.45305556,
+            13.29055556
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "GEOMAR Helmholtz-Zentrum für Ozeanforschung",
+        "RDM Website": "https://portal.geomar.de/home",
+        "location": [
+            54.32723,
+            10.18185
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Helmholtz-Zentrum Potsdam – Deutsches GeoForschungsZentrum",
+        "RDM Website": "https://dataservices.gfz-potsdam.de/portal/drr.html",
+        "location": [
+            52.38255556,
+            13.06444444
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Humboldt-Universität Berlin ",
+        "RDM Website": "https://www.cms.hu-berlin.de/en/dl-en/dataman-en/welcome",
+        "location": [
+            52.51805556,
+            13.39333333
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Helmholtz-Zentrum Hereon\n",
+        "RDM Website": "https://www.hereon.de/central_units/hcdc/forschungsdatenmanagement/index.php.en",
+        "location": [
+            53.40444444,
+            10.42638889
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Forschungszentrum Jülich GmbH ",
+        "RDM Website": "https://www.fz-juelich.de/en/zb/open-science/research-data-management",
+        "location": [
+            50.905,
+            6.41194444
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Ludwig-Maximillians-Universität München",
+        "RDM Website": "https://www.en.ub.uni-muenchen.de/writing/research_data/index.html",
+        "location": [
+            48.15083333,
+            11.58027778
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Gottfried Wilhelm Leibniz Universität Hannover",
+        "RDM Website": "https://www.fdm.uni-hannover.de/en/faq/glossar",
+        "location": [
+            52.382214,
+            9.717729
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Ruhr-Universität Bochum",
+        "RDM Website": "https://www.ruhr-uni-bochum.de/researchdata/rdm.html",
+        "location": [
+            51.4439,
+            7.26157222
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "RWTH Aachen ",
+        "RDM Website": "https://www.rwth-aachen.de/cms/root/Forschung/Forschungsdatenmanagement/~ndpi/Beratung/lidx/1/",
+        "location": [
+            50.77769444,
+            6.07791667
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Technische Informationsbibliothek",
+        "RDM Website": "https://www.tib.eu/en/publishing-archiving/publication-types/research-data/publishing-research-data",
+        "location": [
+            52.38138889,
+            9.72
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Technische Universität Berlin",
+        "RDM Website": "https://www.tu.berlin/en/ub/szf/information-tips/what-is-research-data-management",
+        "location": [52.511944, 13.326389]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Technische Universität Darmstadt ",
+        "RDM Website": "https://www.tu-darmstadt.de/tudata/datenmanagement/grundlagen/was_ist_forschungsdatenmanagement/index.en.jsp",
+        "location": [
+            49.875,
+            8.65694444
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Technische Universität Dresden",
+        "RDM Website": "https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten/unser-service",
+        "location": [
+            51.02805556,
+            13.72666667
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Technische Universität Dortmund",
+        "RDM Website": "https://fdm.tu-dortmund.de/en/rdm-at-tu-dortmund/basics-and-core-concepts/",
+        "location": [
+            51.49246111,
+            7.41426667
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Technische Universität München",
+        "RDM Website": "https://web.tum.de/en/researchdata/about/",
+        "location": [
+            48.14861111,
+            11.56805556
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Helmholtz-Zentrum für Umweltforschung – UFZ",
+        "RDM Website": "https://www.ufz.de/index.php?en=45348",
+        "location": [
+            51.35208611,
+            12.42882222
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+        "RDM Website": "https://www.forschungsdaten.uni-bonn.de/en/services/dmps",
+        "location": [
+            50.73388889,
+            7.10222222
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Goethe-Universität Frankfurt am Main",
+        "RDM Website": "https://www.cdi.fau.de/en/informationen/forschungsdatenmanagement/",
+        "location": [
+            50.128,
+            8.667
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Georg-August-Universität Göttingen",
+        "RDM Website": "https://www.uni-goettingen.de/en/221506.html",
+        "location": [
+            51.54186111,
+            9.934475
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Universität Bremen",
+        "RDM Website": "https://www.uni-bremen.de/en/forschungsdatenmanagement",
+        "location": [
+            53.10865917,
+            8.85360694
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Universität Hamburg",
+        "RDM Website": "https://www.fdm.uni-hamburg.de/en/fdm/faq.html",
+        "location": [
+            53.566944,
+            9.983889
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Friedrich-Schiller-Universität Jena",
+        "RDM Website": "https://www.researchdata.uni-jena.de/en/faq",
+        "location": [
+            50.92944444,
+            11.58944444
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Universität zu Köln",
+        "RDM Website": "https://fdm.uni-koeln.de/en/rdm-knowledge/faq",
+        "location": [
+            50.92805556,
+            6.92861111
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Christian-Albrechts-Universität zu Kiel",
+        "RDM Website": "https://www.datamanagement.uni-kiel.de/en/research-data-management-at-kiel-university",
+        "location": [
+            54.33888889,
+            10.1225
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Universität Leipzig",
+        "RDM Website": "https://www.uni-leipzig.de/en/research/research-service/research-data-management",
+        "location": [
+            51.3387,
+            12.37872778
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Eberhard Karls Universität Tübingen",
+        "RDM Website": "https://uni-tuebingen.de/en/research/research-infrastructure/research-data-management-rdm/",
+        "location": [
+            48.52463889,
+            9.05916667
+        ]
+    },
+    {
+        "Consortium": "NFDI4Earth",
+        "Partner": "Leibniz-Zentrum für Agrarlandschaftsforschung e.V. (ZALF) ",
+        "RDM Website": "https://www.zalf.de/en/forschung_lehre/dataservice/Pages/FAQ.aspx",
+        "location": [52.51588285, 14.112973799647975]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "MARUM – Zentrum für Marine Umweltwissenschaften, Universität Bremen",
+        "RDM Website": "https://www.uni-bremen.de/en/forschungsdatenmanagement",
+        "location": [
+            53.11036,
+            8.85103
+        ]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "Justus-Liebig-Universität Gießen",
+        "RDM Website": "https://www.uni-giessen.de/ub/en/digitales-publizieren-en/researchdata/faq-en/faq-en",
+        "location": [
+            50.58036111,
+            8.67722222
+        ]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "Helmholtz-Zentrum für Umweltforschung – UFZ",
+        "RDM Website": "https://www.ufz.de/index.php?en=45348",
+        "location": [
+            51.35208611,
+            12.42882222
+        ]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "Universität Kassel",
+        "RDM Website": "https://www.uni-kassel.de/forschung/en/6577",
+        "location": [
+            51.322774,
+            9.507562
+        ]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "Universität Bielefeld, Institut für Bioinformatik-Infrastruktur (BIBI)",
+        "RDM Website": "https://www.uni-bielefeld.de/ub/digital/forschungsdaten/fortbildung/",
+        "location": [
+            52.03777778,
+            8.49305556
+        ]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "Friedrich-Schiller-Universität Jena, Deutsches Zentrum für integrative Biodiversitätsforschung (iDiv) Halle-Jena-Leipzig",
+        "RDM Website": "https://www.researchdata.uni-jena.de/en/faq",
+        "location": [
+            50.92944444,
+            11.58944444
+        ]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)",
+        "RDM Website": "https://gwdg.de/en/services/",
+        "location": [
+            51.56083333,
+            9.95694444
+        ]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "Universität Duisburg-Essen, Aquatische Ökosystemforschung (DNAquaNet)",
+        "RDM Website": "https://www.uni-due.de/rds/en/faq.php",
+        "location": [
+            51.42916667,
+            6.80083333
+        ]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "Universität Leipzig",
+        "RDM Website": "https://www.uni-leipzig.de/en/research/research-service/research-data-management",
+        "location": [
+            51.3387,
+            12.37872778
+        ]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB)",
+        "RDM Website": "https://www.uni-goettingen.de/en/221506.html",
+        "location": [
+            51.53972222,
+            9.93638889
+        ]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "Helmholtz-Institut für Funktionelle Marine Biodiversität an der Universität Oldenburg (HIFMB)",
+        "RDM Website": "https://uol.de/en/bis/research-publishing/research-data-management",
+        "location": [
+            53.1532481, 8.1715979
+        ]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "Institut für Angewandte Informatik (InfAI)",
+        "RDM Website": "https://www.uni-leipzig.de/en/research/research-service/research-data-management",
+        "location": [
+            51.3419872,12.3684174 
+        ]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "Fachinformationsdienst Biodiversitätsforschung (BIOfid), Universitätsbibliothek Johann Christian Senckenberg, Goethe-Universität Frankfurt",
+        "RDM Website": "https://www.cdi.fau.de/en/informationen/forschungsdatenmanagement/",
+        "location": [
+            50.12038889,
+            8.65311111
+        ]
+    },
+    {
+        "Consortium": "NFDI4Biodiversity",
+        "Partner": "Georg-August-Universität Göttingen, Campus-Institut Data Science (CIDAS)",
+        "RDM Website": "https://www.uni-goettingen.de/en/221506.html",
+        "location": [
+            51.53410245, 9.937839941393724
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Universität Bielefeld",
+        "RDM Website": "https://www.uni-bielefeld.de/ub/digital/forschungsdaten/fortbildung/",
+        "location": [
+            52.03777778,
+            8.49305556
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Friedrich-Schiller-Universität Jena",
+        "RDM Website": "https://www.researchdata.uni-jena.de/en/faq",
+        "location": [
+            50.92944444,
+            11.58944444
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Helmholtz Zentrum für Umweltforschung",
+        "RDM Website": "https://www.ufz.de/index.php?en=45348",
+        "location": [
+            51.35208611,
+            12.42882222
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Justus-Liebig-Universität Gießen",
+        "RDM Website": "https://www.uni-giessen.de/ub/en/digitales-publizieren-en/researchdata/faq-en/faq-en",
+        "location": [
+            50.58036111,
+            8.67722222
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "RWTH Aachen",
+        "RDM Website": "https://www.rwth-aachen.de/cms/root/Forschung/Forschungsdatenmanagement/~ndpi/Beratung/lidx/1/",
+        "location": [
+            50.77769444,
+            6.07791667
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "ZB MED – Informationszentrum Lebenswissenschaften",
+        "RDM Website": "https://www.publisso.de/en/research-data-management/rdm-planning",
+        "location": [
+            50.924567,
+            6.916296
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "GEOMAR Helmholtz-Zentrum für Ozeanforschung",
+        "RDM Website": "https://portal.geomar.de/home",
+        "location": [
+            54.32723,
+            10.18185
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Goethe-Universität Frankfurt am Main",
+        "RDM Website": "https://www.cdi.fau.de/en/informationen/forschungsdatenmanagement/",
+        "location": [
+            50.128,
+            8.667
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Heinrich-Heine-Universität Düsseldorf",
+        "RDM Website": "https://www.fdm.hhu.de/en/",
+        "location": [
+            51.19027778,
+            6.79416667
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Helmholtz-Zentrum Potsdam – Deutsches GeoForschungsZentrum",
+        "RDM Website": "https://dataservices.gfz-potsdam.de/portal/drr.html",
+        "location": [
+            52.38255556,
+            13.06444444
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Justus-Liebig-Universität Gießen",
+        "RDM Website": "https://www.uni-giessen.de/ub/en/digitales-publizieren-en/researchdata/faq-en/faq-en",
+        "location": [
+            50.58036111,
+            8.67722222
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Forschungszentrum Jülich GmbH ",
+        "RDM Website": "https://www.fz-juelich.de/en/zb/open-science/research-data-management",
+        "location": [
+            50.905,
+            6.41194444
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Christian-Albrechts-Universität zu Kiel",
+        "RDM Website": "https://www.datamanagement.uni-kiel.de/en/research-data-management-at-kiel-university",
+        "location": [
+            54.33888889,
+            10.1225
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Ludwig-Maximillians-Universität München",
+        "RDM Website": "https://www.en.ub.uni-muenchen.de/writing/research_data/index.html",
+        "location": [
+            48.15083333,
+            11.58027778
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Martin-Luther-Universität-Halle-Wittenberg",
+        "RDM Website": "https://bibliothek.uni-halle.de/en/research-publish/research-data/",
+        "location": [
+            51.486389, 11.968889
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft",
+        "RDM Website": "https://www.mdc-berlin.de/research/infrastructure/data-management#t-faqs",
+        "location": [
+            52.62483333,
+            13.50261111
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Max-Planck-Institut für Marine Mikrobiologie",
+        "RDM Website": "https://rdm.mpdl.mpg.de/introduction/website-structure/",
+        "location": [
+            53.11027778,
+            8.8475
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Otto-von-Guericke-Universität Magdeburg",
+        "RDM Website": "https://www.fdm.ovgu.de/fdm/en/Legal+aspects+and+research+ethics+in+RDM+.html",
+        "location": [
+            52.14031111,
+            11.64323333
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Ruhr-Universität Bochum",
+        "RDM Website": "https://www.ruhr-uni-bochum.de/researchdata/rdm.html",
+        "location": [
+            51.4439,
+            7.26157222
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Technische Universität Darmstadt ",
+        "RDM Website": "https://www.tu-darmstadt.de/tudata/datenmanagement/grundlagen/was_ist_forschungsdatenmanagement/index.en.jsp",
+        "location": [
+            49.875,
+            8.65694444
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Technische Universität München",
+        "RDM Website": "https://web.tum.de/en/researchdata/about/",
+        "location": [
+            48.14861111,
+            11.56805556
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Technische Hochschule Köln",
+        "RDM Website": "https://www.th-koeln.de/en/research/research-data-management_95579.php",
+        "location": [
+            50.91992,
+            6.96728
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Technische Informationsbibliothek",
+        "RDM Website": "https://www.tib.eu/en/publishing-archiving/publication-types/research-data/publishing-research-data",
+        "location": [
+            52.38138889,
+            9.72
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Universität Ulm",
+        "RDM Website": "https://www.uni-ulm.de/en/einrichtungen/kiz/service-catalogue/wid/research-data-management/",
+        "location": [
+            48.422095,
+            9.953774
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Universität zu Köln",
+        "RDM Website": "https://fdm.uni-koeln.de/en/rdm-knowledge/faq",
+        "location": [
+            50.92805556,
+            6.92861111
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Universität Hamburg",
+        "RDM Website": "https://www.fdm.uni-hamburg.de/en/fdm/faq.html",
+        "location": [
+            53.566944,
+            9.983889
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Friedrich-Schiller-Universität Jena",
+        "RDM Website": "https://www.researchdata.uni-jena.de/en/faq",
+        "location": [
+            50.92944444,
+            11.58944444
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": "Christian-Albrechts-Universität zu Kiel",
+        "RDM Website": "https://www.datamanagement.uni-kiel.de/en/research-data-management-at-kiel-university",
+        "location": [
+            54.33888889,
+            10.1225
+        ]
+    },
+    {
+        "Consortium": "NFDI4Microbiodata",
+        "Partner": " Julius-Maximilians-Universität Würzburg ",
+        "RDM Website": "https://www.uni-wuerzburg.de/en/rdm/",
+        "location": [
+            49.78805556,
+            9.93527778
+        ]
+    }
+]
