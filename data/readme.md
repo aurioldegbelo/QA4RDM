@@ -1,5 +1,5 @@
 This dataset is a compilation of web pages providing information about research data management for some institutions in Germany. 
-Features of the datasets
+Features of the datasets:
 * Several institutions propose FAQs that look similar.
 * For some institutions, rdm info can be found on one page (mostly), for others, it is spread over several pages. In this case, only one website is selected for illustration purposes.
 * Some institutions have information available in German, but not in English. These were not included in the dataset for now.
