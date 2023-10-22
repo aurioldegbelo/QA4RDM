@@ -17,7 +17,7 @@
     <div class="container" >
         <h2>Hugging Face API demo + NER</h2>
         <br> 
-        <textarea class="form-control w-50" id ="input-query" placeholder="Type your question here" rows="4"></textarea>
+        <textarea class="form-control w-50" id ="input-query" placeholder="Type your input text for named entity recognition here. The application will extract place names from your text..." rows="4"></textarea>
         <button type="button" id="submit-button" class="btn btn-dark btn-sm mt-2">Submit</button>
     </div>
 
@@ -50,8 +50,8 @@
         }
         else
         {
-            // use the gradio api to get answers related to the document
-            console.log("Processing the query...", query)
+            // use the gradio api to get place names mentioned in the input text
+            console.log("Processing the input text...", query)
             let gpt_api = "https://aurioldegbelo-gpt-space.hf.space/run/predict"
             const response = await fetch(gpt_api, 
             {
