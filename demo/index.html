@@ -64,6 +64,7 @@
             })
 
             const geographical_entities = await response_toponyms.json()
+            console.log(typeof(geographical_entities.data[0]))
             console.log(geographical_entities.data[0])
             console.log(geographical_entities.duration)
             console.log(geographical_entities.average_duration)
