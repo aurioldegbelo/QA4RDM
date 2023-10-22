@@ -80,7 +80,7 @@
             metadata_area.innerHTML = metadata
             metadata_area.hidden = false
         
-            if (geographical_entities.data[0].toString() === "")
+            if (geographical_entities.data[0].length === 0)
             {
                 display_area.innerHTML = "No political entities or location in the text"
             }
