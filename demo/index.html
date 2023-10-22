@@ -45,15 +45,13 @@
 
         if (query.length < 1)
         {
-            alert("No question submitted")
+            alert("No input text submitted")
 
         }
         else
         {
             // use the gradio api to get place names mentioned in the input text
             console.log("The input text is...", query)
-
-           // display_area.value = answer.data[0].toString()
 
             // use the gradio api to get named entities
             console.log("Performing the named entity recognition...")
@@ -74,7 +72,7 @@
             console.log(geographical_entities.duration)
             console.log(geographical_entities.average_duration)
             console.log(geographical_entities.is_generating)
-            console.log(typeof(geographical_entities))
+            console.log(typeof(geographical_entities.toString()))
 
             // show the metadata about the answer
             let metadata = `Duration: ${geographical_entities.duration}s;
@@ -93,7 +91,7 @@
 
             }
 
-            display_area.hidden = false
+           // display_area.hidden = false
         
         }
 
