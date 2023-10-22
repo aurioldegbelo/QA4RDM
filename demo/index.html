@@ -68,11 +68,11 @@
             })
 
             const geographical_entities = await response_toponyms.json()
-            console.log(geographical_entities.data[0].toString())
+            console.log(geographical_entities.data[0])
             console.log(geographical_entities.duration)
             console.log(geographical_entities.average_duration)
             console.log(geographical_entities.is_generating)
-            console.log(typeof(geographical_entities.toString()))
+            //console.log(typeof(geographical_entities.toString()))
 
             // show the metadata about the answer
             let metadata = `Duration: ${geographical_entities.duration}s;
