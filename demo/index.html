@@ -51,51 +51,36 @@
         else
         {
             // use the gradio api to get place names mentioned in the input text
-            console.log("Processing the input text...", query)
-            let gpt_api = "https://aurioldegbelo-gpt-space.hf.space/run/predict"
-            const response = await fetch(gpt_api, 
-            {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({
-                    data: [query]
-                })
-            });
-            const answer = await response.json()
+            console.log("The input text is...", query)
 
-            console.log(answer)
-
-            console.log(answer.data[0].toString())
-            console.log(answer.duration)
-            console.log(answer.average_duration)
-            console.log(answer.is_generating)
-
-            display_area.value = answer.data[0].toString()
-
-            // show the metadata about the answer
-            let metadata = `Duration: ${answer.duration}s; Average duration: ${answer.average_duration}s; is_generating: ${answer.is_generating}  `
-            metadata_area.innerHTML = metadata
-            metadata_area.hidden = false
+           // display_area.value = answer.data[0].toString()
 
             // use the gradio api to get named entities
             console.log("Performing the named entity recognition...")
 
             let spacy_api = "https://aurioldegbelo-ner-space.hf.space/run/predict"
-
-            let sentence = answer.data[0].toString()
             
             const response_toponyms = await fetch(spacy_api, 
             {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
-                    data: [sentence]
+                    data: [query]
                 })
             })
 
             const geographical_entities = await response_toponyms.json()
+            console.log(geographical_entities.data[0].toString())
+            console.log(geographical_entities.duration)
+            console.log(geographical_entities.average_duration)
+            console.log(geographical_entities.is_generating)
             console.log(typeof(geographical_entities))
-            console.log(geographical_entities)
+
+            // show the metadata about the answer
+            let metadata = `Duration: ${geographical_entities.duration}s;
+            Average duration: ${geographical_entities.average_duration}s; is_generating: ${geographical_entities.is_generating}  `
+            metadata_area.innerHTML = metadata
+            metadata_area.hidden = false
         
             if (geographical_entities.data[0].toString() === "")
             {
