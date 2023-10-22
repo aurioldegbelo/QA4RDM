@@ -25,8 +25,6 @@
         <br>
         <textarea class="form-control w-50" id = "result-display" placeholder="The answer will be displayed here" rows="7"></textarea>
         <p id = "metadata-display" class = "mt-2" hidden>An invisible div element:</p>
-     <!--   <p id = "toponym-display" class = "mt-2" hidden>An invisible div element:</p> -->
-
     </div>
 
   
@@ -35,8 +33,6 @@
     let submit_button =  document.getElementById("submit-button")
     let display_area = document.getElementById("result-display")
     let metadata_area = document.getElementById("metadata-display")
-    //let toponym_area = document.getElementById("toponym-display")
-
 
     submit_button.addEventListener("click", async function()
     {
@@ -72,7 +68,6 @@
             console.log(geographical_entities.duration)
             console.log(geographical_entities.average_duration)
             console.log(geographical_entities.is_generating)
-            //console.log(typeof(geographical_entities.toString()))
 
             // show the metadata about the answer
             let metadata = `Duration: ${geographical_entities.duration}s;
@@ -90,8 +85,6 @@
                 display_area.innerHTML = `Geopolitical entities or Location in the text: ${geographical_entities.data[0].toString()}`
 
             }
-
-           // display_area.hidden = false
         
         }
 
