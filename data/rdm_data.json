@@ -178,11 +178,10 @@
     },
     {
         "Consortium": "NFDI4Earth",
-        "Partner": "Goethe-Universität Frankfurt am Main",
-        "RDM Website": "https://www.cdi.fau.de/en/informationen/forschungsdatenmanagement/",
+        "Partner": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+        "RDM Website": "https://www.cdi.fau.de/en/informationen/glossary/",
         "location": [
-            50.128,
-            8.667
+           49.59722222, 11.00694444
         ]
     },
     {
@@ -369,15 +368,7 @@
             51.3419872,12.3684174 
         ]
     },
-    {
-        "Consortium": "NFDI4Biodiversity",
-        "Partner": "Fachinformationsdienst Biodiversitätsforschung (BIOfid), Universitätsbibliothek Johann Christian Senckenberg, Goethe-Universität Frankfurt",
-        "RDM Website": "https://www.cdi.fau.de/en/informationen/forschungsdatenmanagement/",
-        "location": [
-            50.12038889,
-            8.65311111
-        ]
-    },
+
     {
         "Consortium": "NFDI4Biodiversity",
         "Partner": "Georg-August-Universität Göttingen, Campus-Institut Data Science (CIDAS)",
@@ -447,15 +438,6 @@
         "location": [
             54.32723,
             10.18185
-        ]
-    },
-    {
-        "Consortium": "NFDI4Microbiodata",
-        "Partner": "Goethe-Universität Frankfurt am Main",
-        "RDM Website": "https://www.cdi.fau.de/en/informationen/forschungsdatenmanagement/",
-        "location": [
-            50.128,
-            8.667
         ]
     },
     {
